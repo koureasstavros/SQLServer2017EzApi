@@ -5,7 +5,7 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("EzApi")]
-[assembly: AssemblyDescription("Fork of EzApi http://sqlsrvintegrationsrv.codeplex.com/releases/view/21238 adapted for SQL Server 2016 version. Stand-alone edition forked by KoureasS & GitHub.")]
+[assembly: AssemblyDescription("Fork of EzApi http://sqlsrvintegrationsrv.codeplex.com/releases/view/21238 adapted for SQL Server 2017 version. Stand-alone edition forked by KoureasS & GitHub.")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("EzApi")]
